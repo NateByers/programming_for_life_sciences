@@ -1,0 +1,65 @@
+Amino_Acid,SLC,DNA_codons
+Isoleucine,I,ATT
+Isoleucine,I,ATC
+Isoleucine,I,ATA
+Leucine,L,CTT
+Leucine,L,CTC
+Leucine,L,CTA
+Leucine,L,CTG
+Leucine,L,TTA
+Leucine,L,TTG
+Valine,V,GTT
+Valine,V,GTC
+Valine,V,GTA
+Valine,V,GTG
+Phenylalanine,F,TTT
+Phenylalanine,F,TTC
+Methionine,M,ATG
+Cysteine,C,TGT
+Cysteine,C,TGC
+Alanine,A,GCT
+Alanine,A,GCC
+Alanine,A,GCA
+Alanine,A,GCG
+Glycine,G,GGT
+Glycine,G,GGC
+Glycine,G,GGA
+Glycine,G,GGG
+Proline,P,CCT
+Proline,P,CCC
+Proline,P,CCA
+Proline,P,CCG
+Threonine,T,ACT
+Threonine,T,ACC
+Threonine,T,ACA
+Threonine,T,ACG
+Serine,S,TCT
+Serine,S,TCC
+Serine,S,TCA
+Serine,S,TCG
+Serine,S,AGT
+Serine,S,AGC
+Tyrosine,Y,TAT
+Tyrosine,Y,TAC
+Tryptophan,W,TGG
+Glutamine,Q,CAA
+Glutamine,Q,CAG
+Asparagine,N,AAT
+Asparagine,N,AAC
+Histidine,H,CAT
+Histidine,H,CAC
+Glutamic acid,E,GAA
+Glutamic acid,E,GAG
+Aspartic acid,D,GAT
+Aspartic acid,D,GAC
+Lysine,K,AAA
+Lysine,K,AAG
+Arginine,R,CGT
+Arginine,R,CGC
+Arginine,R,CGA
+Arginine,R,CGG
+Arginine,R,AGA
+Arginine,R,AGG
+Stop codons,[Stop],TAA
+Stop codons,[Stop],TAG
+Stop codons,[Stop],TGA
