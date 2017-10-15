@@ -1,0 +1,11 @@
+The "assignment3a.R" file was developed using R 3.4.1. When you execute the file 
+it will create the tab delimited table of numbers for the assignment and save it
+as a file called "numbers.txt" in the working directory. Then it will read in 
+that file, multiply the numbers by 5, and write the values in a tab-delimitted
+file called "numbers_multiplied.txt".
+
+The "assignment3b.R" file was also developed using R 3.4.1. When you run the
+file, it will check to see if you have the ggplot2 package available, and if 
+not it will download it. The "numbers.txt" file is read in as a matrix. An
+apply statement is used to get t-test and Wilcox-test outputs for every 
+combination of row-pairs. Box plots are generated using ggplot2.
