@@ -7,4 +7,5 @@ make_breaks <- function(x, bin_length = 100) {
       by = bin_length)
 }
 
-hist(ecoli$Length, breaks = make_breaks)
+hist(ecoli$Length, breaks = make_breaks, xlab = "Length", 
+     main = "Histogram of E. coli protien lengths")
