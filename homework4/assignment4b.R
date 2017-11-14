@@ -1,11 +1,8 @@
-# install packages if necessary
-if(!require(dplyr)) {
-  install.packages("dplyr")
-}
-if(!require(tidyr)) {
-  install.packages("tidyr")
-}
+# install packages 
+install.packages("dplyr")
+install.packages("tidyr")
 library(dplyr)
+library(tidyr)
 
 download.file("ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_genbank/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid225/U00096.gbk",
               "U00096.gbk")
